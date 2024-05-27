@@ -3,6 +3,7 @@ body {
   text-align: center;
   background-color: #f8f9fa;
   transition: background-color 0.3s, color 0.3s;
+  
 }
 
 header {
@@ -51,8 +52,8 @@ header {
 }
 
 .card-back {
-  background: url('https://i.imgur.com/a/Z8cpwRq.jpg') no-repeat center center;
-  background-size: cover;
+    background-image: ("minion.png");
+    background-size: cover;
 }
 
 .card-front {
