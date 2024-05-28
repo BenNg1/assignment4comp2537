@@ -38,7 +38,7 @@ header {
 }
 
 .card.matched {
-  visibility: hidden;
+  pointer-events: none;
 }
 
 .card-front,
